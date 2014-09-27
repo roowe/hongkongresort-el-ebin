@@ -1,0 +1,9 @@
+{application,ets_cache,
+             [{description,[]},
+              {vsn,"1"},
+              {registered,[]},
+              {applications,[kernel,stdlib]},
+              {mod,{ets_cache_app,[]}},
+              {env,[{clean_interval,300}]},
+              {modules,[ets_cache,ets_cache_app,ets_cache_manager,
+                        ets_cache_manager_sup,ets_cache_sup]}]}.
