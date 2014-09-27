@@ -8,6 +8,6 @@ exec ${ERL_DIR}erl \
     -setcookie $COOKIE \
     -name serverctl@$IP \
     -boot start_clean \
-    -s gs_admin_ctrl \
+    -s hongkongresort_ctrl \
     -nodename $NODENAME \
     -extra "$@"
