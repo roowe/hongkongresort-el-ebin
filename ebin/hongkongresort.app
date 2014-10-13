@@ -21,10 +21,10 @@
                         db_user_activity_relation,define_info_to_db,ds_misc,
                         echo_controller,erl_mysql,erlydtl_misc,err_misc,
                         file_misc,generate_all_record,graph_misc,
-                        hello_controller,hello_world_controller,
-                        hongkongresort,hongkongresort_app,hongkongresort_ctrl,
-                        hongkongresort_sup,io_misc,lager_misc,lib_image,
-                        lib_user,mail_misc,mochiglobal,mochilists,module_misc,
-                        mysql_misc,node_misc,priority_queue,rand_misc,
-                        reply_misc,rpc_misc,sensitive_word_misc,statistics,
-                        table_record_info,test_misc,time_misc]}]}.
+                        hello_controller,hongkongresort,hongkongresort_app,
+                        hongkongresort_ctrl,hongkongresort_sup,io_misc,
+                        lager_misc,lib_image,lib_user,mail_misc,mochiglobal,
+                        mochilists,module_misc,mysql_misc,node_misc,
+                        priority_queue,rand_misc,reply_misc,rpc_misc,
+                        sensitive_word_misc,statistics,table_record_info,
+                        test_misc,time_misc]}]}.
