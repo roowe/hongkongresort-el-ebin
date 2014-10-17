@@ -25,7 +25,8 @@
                         hongkongresort_app,hongkongresort_ctrl,
                         hongkongresort_sup,io_misc,lib_image,lib_notification,
                         lib_user,log_misc,mail_misc,mochiglobal,mochilists,
-                        module_misc,mysql_misc,node_misc,priority_queue,
-                        rand_misc,reply_misc,rpc_misc,sensitive_word_misc,
-                        statistics,table_record_info,test_misc,time_misc,
+                        module_misc,mysql_misc,node_misc,
+                        notification_controller,priority_queue,rand_misc,
+                        reply_misc,rpc_misc,sensitive_word_misc,statistics,
+                        table_record_info,test_misc,time_misc,
                         ws_controller]}]}.
