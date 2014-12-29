@@ -1,6 +1,7 @@
 {application,cowboy,
              [{description,"Small, fast, modular HTTP server."},
               {vsn,"2.0.0-pre.1"},
+              {id,"git"},
               {modules,[cowboy,cowboy_app,cowboy_bstr,cowboy_clock,
                         cowboy_constraints,cowboy_handler,cowboy_http,
                         cowboy_loop,cowboy_middleware,cowboy_protocol,
